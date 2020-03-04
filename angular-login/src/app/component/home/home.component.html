@@ -1,0 +1,8 @@
+<p>Welcome!</p>
+<div *ngIf = "auth.isAuthenticated()">
+<div class = "alert alert-success" >You are logged in</div>
+<br/>
+<div class = "alert alert-info" >{{dataFromBackend}}</div>
+</div>
+
+<div class = "alert alert-danger" *ngIf = "!auth.isAuthenticated()">You are not logged in</div>
