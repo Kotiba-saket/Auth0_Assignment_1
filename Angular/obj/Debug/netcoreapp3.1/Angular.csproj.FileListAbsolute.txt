@@ -1,0 +1,16 @@
+C:\Users\Abdul\Downloads\Music\Auth0_Assignment_1-master\Angular\bin\Debug\netcoreapp3.1\angular-login\angular.json
+C:\Users\Abdul\Downloads\Music\Auth0_Assignment_1-master\Angular\bin\Debug\netcoreapp3.1\angular-login\e2e\tsconfig.json
+C:\Users\Abdul\Downloads\Music\Auth0_Assignment_1-master\Angular\bin\Debug\netcoreapp3.1\angular-login\package-lock.json
+C:\Users\Abdul\Downloads\Music\Auth0_Assignment_1-master\Angular\bin\Debug\netcoreapp3.1\angular-login\package.json
+C:\Users\Abdul\Downloads\Music\Auth0_Assignment_1-master\Angular\bin\Debug\netcoreapp3.1\angular-login\tsconfig.app.json
+C:\Users\Abdul\Downloads\Music\Auth0_Assignment_1-master\Angular\bin\Debug\netcoreapp3.1\angular-login\tsconfig.json
+C:\Users\Abdul\Downloads\Music\Auth0_Assignment_1-master\Angular\bin\Debug\netcoreapp3.1\angular-login\tsconfig.spec.json
+C:\Users\Abdul\Downloads\Music\Auth0_Assignment_1-master\Angular\bin\Debug\netcoreapp3.1\angular-login\tslint.json
+C:\Users\Abdul\Downloads\Music\Auth0_Assignment_1-master\Angular\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Abdul\Downloads\Music\Auth0_Assignment_1-master\Angular\bin\Debug\netcoreapp3.1\Angular.exe
+C:\Users\Abdul\Downloads\Music\Auth0_Assignment_1-master\Angular\obj\Debug\netcoreapp3.1\Angular.csprojAssemblyReference.cache
+C:\Users\Abdul\Downloads\Music\Auth0_Assignment_1-master\Angular\obj\Debug\netcoreapp3.1\staticwebassets\Angular.StaticWebAssets.Manifest.cache
+C:\Users\Abdul\Downloads\Music\Auth0_Assignment_1-master\Angular\obj\Debug\netcoreapp3.1\staticwebassets\Angular.StaticWebAssets.xml
+C:\Users\Abdul\Downloads\Music\Auth0_Assignment_1-master\Angular\obj\Debug\netcoreapp3.1\Angular.AssemblyInfoInputs.cache
+C:\Users\Abdul\Downloads\Music\Auth0_Assignment_1-master\Angular\obj\Debug\netcoreapp3.1\Angular.AssemblyInfo.cs
+C:\Users\Abdul\Downloads\Music\Auth0_Assignment_1-master\Angular\obj\Debug\netcoreapp3.1\Angular.RazorTargetAssemblyInfo.cache
